@@ -1,0 +1,6 @@
+@SchoolProject.API_PresentationLayer__HostAddress = http://localhost:5047
+
+GET {{SchoolProject.API_PresentationLayer__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
